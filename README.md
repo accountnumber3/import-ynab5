@@ -13,4 +13,5 @@ I'm not exactly sure if credit card categories and goals effect anything. I've n
 
 ## To run it
 
+Install node.js
 Have Actual running locally and run `node index.js /path/to/data.json`.
